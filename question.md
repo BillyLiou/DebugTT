@@ -8,6 +8,8 @@ start 1 ~
 
 start 2 ~
 
+start 3 ~
+
 billy 1
 
 billy 2
