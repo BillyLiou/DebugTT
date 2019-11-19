@@ -4,5 +4,6 @@
 
 start~
 
+start 1 ~
 
 billy 1
